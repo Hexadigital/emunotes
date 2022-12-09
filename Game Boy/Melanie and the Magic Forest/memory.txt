@@ -1,0 +1,36 @@
+0xC0BE - Player Direction
+	0 = Down  
+	1 = Right  
+	2 = Up  
+	3 = Left  
+	4 = Down, Walking  
+	5 = Right, Walking  
+	6 = Up, Walking  
+	7 = Left, Walking  
+	8 = Full screen glitch (directionless)  
+
+0xC15A - Daikon Radish Plant
+	0 = Unplanted
+	1 = Seedling
+	2 = Flowering
+	3 = Harvestable
+	4 = Harvested
+
+0xC1BE - Squash Plant
+	0 = Unplanted
+	1 = Seedling
+	2 = Flowering
+	3 = Harvestable
+	4 = Harvested
+
+0xCB1E - Cookie
+	0 = Unobtained
+	1 = Obtained
+
+0xCB28 - Backback
+	0 = Unobtained
+	1 = Obtained
+
+0xCBAA - Kiba Follows Player
+	0 = False
+	1 = True
