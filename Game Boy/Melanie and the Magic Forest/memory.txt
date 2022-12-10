@@ -9,13 +9,69 @@
 	7 = Left, Walking
 	8 = Full screen glitch (directionless)
 
+0xC4EC - Player X-Coordinate
+	Relative to map
+	Increases as player walks right
+
+0xC4EC - Player Y-Coordinate
+	Relative to map
+	Increases as player walks down
+
+0xC7AC - Current Map
+	00 = Title Screen
+	06 = Mushroom Village
+	0E = Rocky Trail
+	17 = Mushroom Crossroad
+	28 = Mama Pup's Kitchen
+	2B = Northern Trail
+	3A = Secret Clubhouse
+	4A = River Trail
+	51 = Backpack
+	57 = Southern Trail
+	58 = Mama Pup's Living Room
+	80 = Southern Crossroad
+	AC = Village
+	B5 = Amethyst Cave
+	C4 = Mavis' Yard
+	C8 = Melanie's Yard
+	CC = Lagoon Lake
+	D0 = Cave Entrance
+	E2 = Melanie's House
+	EF = Allie's Yard
+	FB = Allie's House
+	FC = River Bridge
+	FD = Eastern Trail
+
 0xCB1E - Cookie
 	0 = Unobtained
 	1 = Obtained
 
+0xCB26 - Number of Pups Found
+	6 = All found, Mavis spoken to twice
+
 0xCB28 - Backback
 	0 = Unobtained
 	1 = Obtained
+
+0xCB34 - Mushroom Village Pup Returned Home
+	0 = False
+	1 = True
+
+0xCB36 - Mine Pup Returned Home
+	0 = False
+	1 = True
+
+0xCB38 - Lagoon Pup Returned Home
+	0 = False
+	1 = True
+
+0xCB3A - Dead End Pup Returned Home
+	0 = False
+	1 = True
+
+0xCB3E - Portal Opened to Ending
+	0 = False
+	1 = True
 
 0xCB44 - Number of Trash Bags Removed from Lagoon Lake
 	0, 1, 2
@@ -29,6 +85,7 @@
 	1 = True
 
 0xCB6A - Daikon Radish Plant
+	1 = Unplanted, no watering can
 	2 = Unplanted
 	4 = Seedling
 	8 = Flowering
@@ -36,6 +93,7 @@
 	20 = Harvested
 
 0xCB70 - Green Onion Plant
+	1 = Unplanted, no watering can
 	2 = Unplanted
 	4 = Seedling
 	8 = Flowering
@@ -43,6 +101,7 @@
 	20 = Harvested
 
 0xCB72 - Artichoke Plant
+	1 = Unplanted, no watering can
 	2 = Unplanted
 	4 = Seedling
 	8 = Flowering
@@ -50,12 +109,41 @@
 	20 = Harvested
 
 0xCB74 - Squash Plant
+	1 = Unplanted, no watering can
 	2 = Unplanted
 	4 = Seedling
 	8 = Flowering
 	10 = Harvestable
 	20 = Harvested
 
+0xCB8E - Tote Bag in Inventory
+	0 = False
+	1 = True
+
+0xCB94 - Tournament Cutscene Unlocked
+	0 = False
+	1 = True
+
+0xCB96 - Allie Cutscene Unlocked
+	0 = False
+	1 = True
+
+0xCB98 - Found All Pups Cutscene Unlocked
+	0 = False
+	1 = True
+
+0xCB9A - Kiba Cutscene Unlocked
+	0 = False
+	1 = True
+
+0xCB9C - Game Completed
+	0 = False
+	1 = True
+
 0xCBAA - Kiba Follows Player
 	0 = False
 	1 = True
+
+0cDE1D - Backpack Open
+	0 = False
+	2 = True
