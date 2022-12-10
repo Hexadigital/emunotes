@@ -1,27 +1,13 @@
 0xC0BE - Player Direction
-	0 = Down  
-	1 = Right  
-	2 = Up  
-	3 = Left  
-	4 = Down, Walking  
-	5 = Right, Walking  
-	6 = Up, Walking  
-	7 = Left, Walking  
-	8 = Full screen glitch (directionless)  
-
-0xC15A - Daikon Radish Plant
-	0 = Unplanted
-	1 = Seedling
-	2 = Flowering
-	3 = Harvestable
-	4 = Harvested
-
-0xC1BE - Squash Plant
-	0 = Unplanted
-	1 = Seedling
-	2 = Flowering
-	3 = Harvestable
-	4 = Harvested
+	0 = Down
+	1 = Right
+	2 = Up
+	3 = Left
+	4 = Down, Walking
+	5 = Right, Walking
+	6 = Up, Walking
+	7 = Left, Walking
+	8 = Full screen glitch (directionless)
 
 0xCB1E - Cookie
 	0 = Unobtained
@@ -30,6 +16,45 @@
 0xCB28 - Backback
 	0 = Unobtained
 	1 = Obtained
+
+0xCB44 - Number of Trash Bags Removed from Lagoon Lake
+	0, 1, 2
+
+0xCB46 - Left Trash Bag Removed from Lagoon Lake
+	0 = False
+	1 = True
+
+0xCB49 - Right Trash Bag Removed from Lagoon Lake
+	0 = False
+	1 = True
+
+0xCB6A - Daikon Radish Plant
+	2 = Unplanted
+	4 = Seedling
+	8 = Flowering
+	10 = Harvestable
+	20 = Harvested
+
+0xCB70 - Green Onion Plant
+	2 = Unplanted
+	4 = Seedling
+	8 = Flowering
+	10 = Harvestable
+	20 = Harvested
+
+0xCB72 - Artichoke Plant
+	2 = Unplanted
+	4 = Seedling
+	8 = Flowering
+	10 = Harvestable
+	20 = Harvested
+
+0xCB74 - Squash Plant
+	2 = Unplanted
+	4 = Seedling
+	8 = Flowering
+	10 = Harvestable
+	20 = Harvested
 
 0xCBAA - Kiba Follows Player
 	0 = False
