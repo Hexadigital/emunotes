@@ -1,3 +1,10 @@
+0xC0A3 - Game Timer
+	Advances by one every frame
+
+0xC0A4 - Game Timer
+	Advances by one whenever 0xC0A3 hits FF
+	(aka once every 256 frames)
+
 0xC0BE - Player Direction
 	0 = Down
 	1 = Right
