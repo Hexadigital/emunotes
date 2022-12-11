@@ -32,6 +32,7 @@
 	28 = Mama Pup's Kitchen
 	2B = Northern Trail
 	3A = Secret Clubhouse
+	43 = Mama Pup's Bedroom
 	4A = River Trail
 	51 = Backpack
 	57 = Southern Trail
