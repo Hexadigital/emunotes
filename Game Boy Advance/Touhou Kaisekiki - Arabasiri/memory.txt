@@ -1,0 +1,57 @@
+0x1EC4 - Current Stage [8-bit]
+	1 = Stage 1
+	2 = Stage 2
+	3 = Stage 3
+	4 = Stage 4
+	5 = Transistionary Stage (goes to 6)
+	6 = Stage 5
+	7 = Congratulation Screen
+
+0x1ECC - Power Level [8-bit]
+	Starts at 0, caps at 3 (full power)
+	Increases when picking up [P], decreases when hit if > 0
+
+0x1F20 - Current Song [8-bit]
+	01 = Stage 1
+	02 = Stage 3
+	03 = Stage 3 Boss
+	04 = Boss Defeated
+	05 = Stage 2
+	06 = Stage 1, 2, and 4 Boss
+	07 = Title Screen
+	08 = Stage 5
+	09 = Stage 5 Boss
+	0A = Pressed Start / Continue
+	0B = Unused? (Best heard on Congratulation screen)
+	0C = Stage 4
+	0D = Congratulation
+	FF = Life Lost Beeps
+
+0x7E4B - Player Invincibility [8-bit]
+	00 = Invincible
+	FF = Normal
+
+0x7E5C - A Button Pressed Bitflag
+	Bit0 = True
+
+0x7E60 - B Button Pressed Bitflag
+	Bit0 = True
+
+0x7E64 - Selected Spell [8-bit]
+	00 = Standard/Star (Front)
+	01 = Bounce (Anti-Air)
+	02 = Bomb (Front + Back)
+	03 = Flame (Spiraling)
+
+0x7E68 - Health [8-bit]
+	Ranges from 0 to 4
+	4 = Full Health
+	0 = No Health (leads to death animation)
+
+0x7E7C - Demo Mode Bitflag
+	Bit0 = Demo Mode Enabled
+	Demo Mode disables controls, causes the player to be invincible, and scrolls the screen to the right - after a while, it returns to the title screen.
+
+0x7E98 - Lives Remaining [8-bit]
+	Starts at 2 (three lives remaining)
+	If you die while this value is at 0, it loops around to 0xFF and triggers the game over screen.

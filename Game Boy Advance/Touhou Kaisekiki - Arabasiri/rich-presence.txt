@@ -1,0 +1,16 @@
+Lookup:Boss
+0x01=Tewi Inaba
+0x02=Reisen Inaba
+0x03=Fujiwara no Mokou
+0x04=Youmu Konpaku
+0x06=Yuyuko Saigyouji
+
+
+Display:
+?0xh7e7c=1?Watching a Demo
+?0xh7e7c=0S0xH001f20=1S0xH001f20=2S0xH001f20=5S0xH001f20=10S0xH001f20=12S0xH001f20=255?Surviving Stage @Number(0xh1ec4) | ❤️:@Number(0xh7e68)
+?0xh7e7c=0S0xH001f20=3S0xH001f20=4S0xH001f20=6S0xH001f20=9?Facing @Boss(0xh1ec4) | ❤️:@Number(0xh7e68)
+?0xH001f20=8?Watching the Cherry Blossoms | ❤️:@Number(0xh7e68)
+?0xH001f20=13?Celebrating Victory
+?O:0xH001f20=0_0xH001f20=7?At the Title Screen
+Unknown
