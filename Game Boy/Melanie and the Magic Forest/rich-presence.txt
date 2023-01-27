@@ -1,0 +1,30 @@
+Lookup:Map
+0x00=the Title Screen
+0x06=the Mushroom Village
+0x0E=the Rocky Trail
+0x17=the Mushroom Crossroad
+0x28=Mama Pup's Kitchen
+0x2B=the Northern Trail
+0x3A=the Secret Clubhouse
+0x43=Mama Pup's Bedroom
+0x4A=the River Trail
+0x51=their Backpack
+0x57=the Southern Trail
+0x58=Mama Pup's Living Room
+0x80=the Southern Crossroad
+0xAC=the Village
+0xB5=Amethyst Cave
+0xC4=Mavis' Yard
+0xC8=Melanie's Yard
+0xCC=the Lagoon
+0xD0=the Cave Entrance
+0xE2=Melanie's House
+0xEF=Allie's Farm
+0xFB=Allie's House
+0xFC=the River Bridge
+0xFD=the Eastern Trail
+*=an Unknown Location
+
+
+Display:
+Exploring @Map(0xhC7AC)
