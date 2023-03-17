@@ -1,0 +1,16 @@
+Lookup:Difficulty
+0=Normal
+1=Relaxed
+
+Display:
+// EU Release
+?0xX3ffa8c=1479821891_0xH05bb1e=0?@ASCIIChar(0xH5b8dc)@ASCIIChar(0xH5b8dd)@ASCIIChar(0xH5b8de)@ASCIIChar(0xH5b8df)@ASCIIChar(0xH5b8e0)@ASCIIChar(0xH5b8e1)@ASCIIChar(0xH5b8e2)@ASCIIChar(0xH5b8e3)@ASCIIChar(0xH5b8e4)@ASCIIChar(0xH5b8e5) is playing on @Difficulty(0xO5b908) Mode [@Number(0xH5b914)/40 Stages Unlocked]
+?0xX3ffa8c=1479821891_0xH05bb1e=1?@ASCIIChar(0xH5b94c)@ASCIIChar(0xH5b94d)@ASCIIChar(0xH5b94e)@ASCIIChar(0xH5b94f)@ASCIIChar(0xH5b950)@ASCIIChar(0xH5b8e1)@ASCIIChar(0xH5b952)@ASCIIChar(0xH5b953)@ASCIIChar(0xH5b954)@ASCIIChar(0xH5b955) is playing on @Difficulty(0xO5b978) Mode [@Number(0xH5b984)/40 Stages Unlocked]
+?0xX3ffa8c=1479821891_0xH05bb1e=2?@ASCIIChar(0xH5b9bc)@ASCIIChar(0xH5b9bd)@ASCIIChar(0xH5b9be)@ASCIIChar(0xH5b9bf)@ASCIIChar(0xH5b9c0)@ASCIIChar(0xH5b9c1)@ASCIIChar(0xH5b9c2)@ASCIIChar(0xH5b9c3)@ASCIIChar(0xH5b9c4)@ASCIIChar(0xH5b9c5) is playing on @Difficulty(0xO5b9e8) Mode [@Number(0xH5b9f4)/40 Stages Unlocked]
+?0xX3ffa8c=1479821891_0xH05bb1e=3?@ASCIIChar(0xH5ba2c)@ASCIIChar(0xH5ba2d)@ASCIIChar(0xH5ba2e)@ASCIIChar(0xH5ba2f)@ASCIIChar(0xH5ba20)@ASCIIChar(0xH5ba21)@ASCIIChar(0xH5ba22)@ASCIIChar(0xH5ba23)@ASCIIChar(0xH5ba24)@ASCIIChar(0xH5ba25) is playing on @Difficulty(0xO5ba58) Mode [@Number(0xH5ba64)/40 Stages Unlocked]
+// US Release
+?0xX3ffa8c=1161054787_0xH05bbde=0?@ASCIIChar(0xH5b99c)@ASCIIChar(0xH5b99d)@ASCIIChar(0xH5b99e)@ASCIIChar(0xH5b99f)@ASCIIChar(0xH5b9a0)@ASCIIChar(0xH5b9a1)@ASCIIChar(0xH5b9a2)@ASCIIChar(0xH5b9a3)@ASCIIChar(0xH5b9a4)@ASCIIChar(0xH5b9a5) is playing on @Difficulty(0xO5b9c8) Mode [@Number(0xH5b9d4)/40 Stages Unlocked]
+?0xX3ffa8c=1161054787_0xH05bbde=1?@ASCIIChar(0xH5ba0c)@ASCIIChar(0xH5ba0d)@ASCIIChar(0xH5ba0e)@ASCIIChar(0xH5ba0f)@ASCIIChar(0xH5ba10)@ASCIIChar(0xH5b8e1)@ASCIIChar(0xH5ba12)@ASCIIChar(0xH5ba13)@ASCIIChar(0xH5ba14)@ASCIIChar(0xH5ba15) is playing on @Difficulty(0xO5ba38) Mode [@Number(0xH5ba44)/40 Stages Unlocked]
+?0xX3ffa8c=1161054787_0xH05bbde=2?@ASCIIChar(0xH5ba7c)@ASCIIChar(0xH5ba7d)@ASCIIChar(0xH5ba7e)@ASCIIChar(0xH5ba7f)@ASCIIChar(0xH5ba80)@ASCIIChar(0xH5ba81)@ASCIIChar(0xH5ba82)@ASCIIChar(0xH5ba83)@ASCIIChar(0xH5ba84)@ASCIIChar(0xH5ba85) is playing on @Difficulty(0xO5baa8) Mode [@Number(0xH5bab4)/40 Stages Unlocked]
+?0xX3ffa8c=1161054787_0xH05bbde=3?@ASCIIChar(0xH5baec)@ASCIIChar(0xH5baed)@ASCIIChar(0xH5baee)@ASCIIChar(0xH5baef)@ASCIIChar(0xH5baf0)@ASCIIChar(0xH5baf1)@ASCIIChar(0xH5baf2)@ASCIIChar(0xH5baf3)@ASCIIChar(0xH5baf4)@ASCIIChar(0xH5baf5) is playing on @Difficulty(0xO5bb18) Mode [@Number(0xH5bb24)/40 Stages Unlocked]
+Initalizing...
