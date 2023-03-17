@@ -1,0 +1,64 @@
+Power Unleashed [m]
+Reach full (three-star) power! [1]
+0xM007e7c=0_0xH001f20!=7_d0xH001ecc=2_0xH001ecc=3
+
+Rabbit of the Earth
+Defeat Tewi Inaba and clear stage 1. [3]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=1_0xH001ec4=2
+
+Flawless Rabbit of the Earth [m]
+Defeat Tewi Inaba and clear stage 1 without taking damage or dying. [10]
+0xM007e7c=0_0xH001f20=1.1._d0xH001ec4=1_T:0xH001ec4=2_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SO:d0xH007e98=0_N:d0xH007e98=255_R:0xH007e98=2SR:0xH001f20=7
+
+Lunatic Moon Rabbit
+Defeat Reisen Inaba and clear stage 2. [3]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=2_0xH001ec4=3
+
+Flawless Lunatic Moon Rabbit [m]
+Defeat Reisen Inaba and clear stage 2 without taking damage or dying. [10]
+0xM007e7c=0_0xH001f20!=7.10._d0xH001ec4=2_T:0xH001ec4=3_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=1_R:0xH001ec4=2
+
+Figure of Hourai
+Defeat Fujiwara no Mokou and clear stage 3. [5]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=3_0xH001ec4=4
+
+Flawless Figure of Hourai [m]
+Defeat Fujiwara no Mokou and clear stage 3 without taking damage or dying. [10]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=3_T:0xH001ec4=4_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=2_R:0xH001ec4=3
+
+Phantom-Human Gardener
+Defeat Youmu Konpaku and clear stage 4. [5]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=4_0xH001ec4=5
+
+Flawless Phantom-Human Gardener [m]
+Defeat Youmu Konpaku and clear stage 4 without taking damage or dying. [10]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=4_T:0xH001ec4=5_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=3_R:0xH001ec4=4
+
+Bringing Anti-Air to a Sword Fight [m]
+Defeat Youmu Konpaku and clear stage 4 using only the bounce spell. [10]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=4_T:0xH001ec4=5_N:0xH007e64!=1.1._P:0xM007e60=1.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=3_R:0xH001ec4=4
+
+Dreaming Ghost
+Defeat Yuyuko Saigyouji and clear the game. [10]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=6_0xH001ec4=7
+
+Flawless Dreaming Ghost [m]
+Defeat Yuyuko Saigyouji without taking damage or dying. [5]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=6_T:0xH001ec4=7_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=5_R:0xH001ec4=6
+
+Burning Blossoms [m]
+Defeat Yuyuko Saigyouji using only the flame spell. [5]
+0xM007e7c=0_0xH001f20!=7_d0xH001ec4=6_T:0xH001ec4=7_N:0xH007e64!=3_P:0xM007e60=1.1.SN:d0xH007e98=255_R:0xH007e98=2SN:d0xH001ec4=5_R:0xH001ec4=6
+
+1CC [m]
+Beat the game without using a continue. [5]
+0xM007e7c=0_0xH001ec4!=0_0xH001f20!=0_T:d0xH001ec4=6_T:0xH001ec4=7_P:0xH007e98=255.1.SR:0xH001f20=7
+
+Who Needs Extra Projectiles [m]
+Beat the game without having more than one blue star. [25]
+0xM007e7c=0_0xH001ec4!=0_0xH001f20!=0_T:d0xH001ec4=6_T:0xH001ec4=7_P:0xH001ecc>1.1.SR:0xH001f20=7
+
+(Un)ordinary Magician [m]
+Beat the game without taking damage or dying. [50]
+0xM007e7c=0_0xH001ec4!=0_0xH001f20!=0_T:d0xH001ec4=6_T:0xH001ec4=7_P:0xH007e68<d0xH007e68.1._P:0xH007e98<d0xH007e98.1.SR:0xH001f20=7
+
