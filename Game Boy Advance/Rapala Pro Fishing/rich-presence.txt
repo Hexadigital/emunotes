@@ -1,0 +1,12 @@
+Lookup:Location
+0x01=Lake Castalic
+0x03=Mille Lacs
+0x05=Lake Minnetonka
+0x07=Lake Okeechobee
+0x09=the Sacramento River
+*=Unknown
+
+Display:
+?0xM148c0=0?Preparing to Fish
+?0xM148c0=1?Fishing at @Location(0xh148c0)
+Unknown

@@ -1,0 +1,126 @@
+0x000d6c - Music Volume Slider [8-bit]
+Ranges from 00 (silent) to 28 (full volume)
+
+0x00e0e0 - Sound Volume Slider [8-bit]
+Ranges from 00 (silent) to 1C (full volume)
+
+0x014636 - Profile 1 Challenge Bitflags [Part 1]
+Bit0 = Completed Lake Castalic Challenge 1
+Bit1 = Completed Lake Castalic Challenge 2
+Bit2 = Completed Lake Castalic Challenge 3
+Bit3 = Completed Mille Lacs Challenge 1
+Bit4 = Completed Mille Lacs Challenge 2
+Bit5 = Completed Mille Lacs Challenge 3
+Bit6 = Completed Lake Minnetonka Challenge 1
+Bit7 = Completed Lake Minnetonka Challenge 2
+
+0x014637 - Profile 1 Challenge Bitflags [Part 2]
+Bit0 =  Completed Lake Minnetonka Challenge 3
+Bit1 =  Completed Lake Okeechebee Challenge 1
+Bit2 =  Completed Lake Okeechebee Challenge 2
+Bit3 =  Completed Lake Okeechebee Challenge 3
+Bit4 =  Completed Sacramento River Challenge 1
+Bit5 =  Completed Sacramento River Challenge 2
+Bit6 =  Completed Sacramento River Challenge 3
+
+0x014644 - Profile 1 Record Crappie (Black) Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x014645 - Profile 1 Record Crappie (Black) Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x01464c - Profile 1 Record Largemouth Bass Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x01464d - Profile 1 Record Largemouth Bass Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x014654 - Profile 1 Record Muskie Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x014655 - Profile 1 Record Muskie Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x01465c - Profile 1 Record King Salmon Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x01465d - Profile 1 Record King Salmon Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x014664 - Profile 1 Record Smallmouth Bass Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x014665 - Profile 1 Record Smallmouth Bass Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x01466c - Profile 1 Record Striped Bass Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x01466d - Profile 1 Record Striped Bass Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x014674 - Profile 1 Record Walleye Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x014675 - Profile 1 Record Walleye Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x014690 - Profile 2 Record Largemouth Bass Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x014691 - Profile 2 Record Largemouth Bass Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x0146d4 - Profile 3 Record Largemouth Bass Decimal [8-bit]
+This value stores the decimal portion of the fish's weight.
+
+0x0146d5 - Profile 3 Record Largemouth Bass Pounds [8-bit]
+00 = Uncaught or Under 1 Pound
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x014704 - Selected Profile [8-bit]
+00 = Profile 1
+01 = Profile 2
+02 = Profile 3
+
+0x014710 - Selected Lure [8-bit)
+00 = Deep Down Rattlin' Fat Rap
+01 = Original Floater
+02 = Rattlin' Rapala
+03 = Skitter Prop
+04 = Super Shad Rap
+
+0x014714 - Last Catch Species [8-bit]
+00 = Crappie (Black)
+01 = Largemouth Bass
+02 = Muskie
+03 = King Salmon
+04 = Smallmouth Bass
+05 = Striped Bass
+06 = Walleye
+
+0x014718 - Last Catch Decimal [8-bit]
+This value stores the decimal portion of the last caught fish's weight.
+
+0x014719 - Last Catch Pounds [8-bit]
+This value stores the number of pounds the fish weighs, not including the decimal portion.
+
+0x0148c0 - Selected Map and Fishing Status [8-bit]
+Bit0 On = Fishing (In-Game)
+Bits 1-3 Off = Lake Castaic
+Bit1 On = Mille Lacs
+Bit2 On = Lake Minnetonka
+Bit1 & Bit2 On = Lake Okeechobee
+Bit3 On = Sacramento River
+
+0x0148d4 - AM/PM Bitflag [Bit0]
+0 = PM
+1 = AM

@@ -1,0 +1,28 @@
+Lake Castalic
+Complete all three challenges for Lake Castalic. [3]
+0xH0148c0=1_I:0xH014704*68_O:d0xM014636=0_I:0xH014704*68_O:d0xN014636=0_I:0xH014704*68_d0xO014636=0_I:0xH014704*68_A:0xM014636_I:0xH014704*68_A:0xN014636_I:0xH014704*68_M:0xO014636=3
+
+Mille Lacs
+Complete all three challenges for Mille Lacs. [3]
+0xH0148c0=3_I:0xH014704*68_O:d0xP014636=0_I:0xH014704*68_O:d0xQ014636=0_I:0xH014704*68_d0xR014636=0_I:0xH014704*68_A:0xP014636_I:0xH014704*68_A:0xQ014636_I:0xH014704*68_M:0xR014636=3
+
+Lake Minnetonka
+Complete all three challenges for Lake Minnetonka. [5]
+0xH0148c0=5_I:0xH014704*68_O:d0xS014636=0_I:0xH014704*68_O:d0xT014636=0_I:0xH014704*68_d0xM014637=0_I:0xH014704*68_A:0xS014636_I:0xH014704*68_A:0xT014636_I:0xH014704*68_M:0xM014637=3
+
+Lake Okeechobee
+Complete all three challenges for Lake Okeechobee. [5]
+0xH0148c0=7_I:0xH014704*68_O:d0xN014637=0_I:0xH014704*68_O:d0xO014637=0_I:0xH014704*68_d0xP014637=0_I:0xH014704*68_A:0xN014637_I:0xH014704*68_A:0xO014637_I:0xH014704*68_M:0xP014637=3
+
+Sacramento River
+Complete all three challenges for Sacramento River. [10]
+0xH0148c0=9_I:0xH014704*68_O:d0xQ014637=0_I:0xH014704*68_O:d0xR014637=0_I:0xH014704*68_d0xS014637=0_I:0xH014704*68_A:0xQ014637_I:0xH014704*68_A:0xR014637_I:0xH014704*68_M:0xS014637=3
+
+Feast for a King
+Catch a King Salmon that weighs 38 pounds or more. [3]
+0xH0148c0=9_0xH014714=3_0xH014719>=38
+
+A Tiny Snack
+Catch a Crappie (Black) that weighs 0.5 pounds or less. [3]
+0xH0148c0=7_0xH014714=0_0xH014719=0_0xH014718<=153
+
