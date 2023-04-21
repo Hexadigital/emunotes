@@ -15,6 +15,10 @@ Represents the number of stages unlocked.
 0x01 = first stage beaten/unlocked
 0x28 = all 40 stages beaten/unlocked
 
+0x05b918 - Profile 1 Free Play Object Bitflags (EU) [24-bit]
+All 20 objects found corresponds to 11111110 11111111 00x11111.
+The x in this sequence corresponds to the optional sun object that grants a power-up - it is not needed to complete a level.
+
 0x05b938 - Current Level (US) [ASCII, 512-bit?)
 0x05b938-0x05b977
 Contains the path to the XML file representing the current level.
@@ -59,6 +63,10 @@ Represents the number of stages unlocked.
 0x01 = first stage beaten/unlocked
 0x28 = all 40 stages beaten/unlocked
 
+0x05b9d8 - Profile 1 Free Play Object Bitflags (US) [24-bit]
+All 20 objects found corresponds to 11111111 11111111 000x1111.
+The x in this sequence corresponds to the optional sun object that grants a power-up - it is not needed to complete a level.
+
 0x05b9e8 - Profile 3 Game State (EU) [bitflags]
 Bit2 = Difficulty (0 = normal, 1 = relaxed)
 
@@ -74,8 +82,20 @@ Contains the number of search hints (Y) remaining.
 0x05ba0b - Profile 1 Time Stops Remaining (US) [8-bit]
 Contains the number of time stops (X) remaining.
 
+0x05ba0c - Profile 2 Name (US) [ASCII, 80-bit]
+10 Characters max
+
 0x05ba2c - Profile 4 Name (EU) [ASCII, 80-bit]
 10 Characters max
+
+0x05ba38 - Profile 2 Game State (US) [bitflags]
+Bit2 = Difficulty (0 = normal, 1 = relaxed)
+
+0x05ba44 - Profile 2 Stages Unlocked (US) [8-bit]
+Represents the number of stages unlocked.
+0x00 = no stages unlocked
+0x01 = first stage beaten/unlocked
+0x28 = all 40 stages beaten/unlocked
 
 0x05ba58 - Profile 4 Game State (EU) [bitflags]
 Bit2 = Difficulty (0 = normal, 1 = relaxed)
@@ -85,6 +105,9 @@ Represents the number of stages unlocked.
 0x00 = no stages unlocked
 0x01 = first stage beaten/unlocked
 0x28 = all 40 stages beaten/unlocked
+
+0x05ba7c - Profile 3 Name (US) [ASCII, 80-bit]
+10 Characters max
 
 0x05ba9c - Selected Language (EU) [8-bit]
 00 = English
@@ -98,6 +121,21 @@ Ranges from 00 (mute) to FF (max)
 0x05ba9e - Sound Volume (EU) [8-bit]
 Ranges from 00 (mute) to FF (max)
 
+0x05baa8 - Profile 3 Game State (US) [bitflags]
+Bit2 = Difficulty (0 = normal, 1 = relaxed)
+
+0x05bab4 - Profile 3 Stages Unlocked (US) [8-bit]
+Represents the number of stages unlocked.
+0x00 = no stages unlocked
+0x01 = first stage beaten/unlocked
+0x28 = all 40 stages beaten/unlocked
+
+0x05baec - Profile 4 Name (US) [ASCII, 80-bit]
+10 Characters max
+
+0x05bb18 - Profile 4 Game State (US) [bitflags]
+Bit2 = Difficulty (0 = normal, 1 = relaxed)
+
 0x05bb1e - Selected Profile (EU) [8-bit]
 Ranges from 0 to 3
 
@@ -106,6 +144,16 @@ Contains the number of search hints (Y) remaining.
 
 0x05bb22 - Free Play Time Stops Remaining (EU) [8-bit]
 Contains the number of time stops (X) remaining.
+
+0x05bb24 - Profile 4 Stages Unlocked (US) [8-bit]
+Represents the number of stages unlocked.
+0x00 = no stages unlocked
+0x01 = first stage beaten/unlocked
+0x28 = all 40 stages beaten/unlocked
+
+0x05bb3c - Free Play Timer Pointer (EU) [24-bit]
++0x364
+++0x24 = Frames remaining on timer
 
 0x05bb5c - Selected Language (US) [8-bit]
 00 = English
@@ -149,3 +197,4 @@ can differ if level has hidden items or a bonus at the end.
 0x3ffa8c - Serial Code [32-bit]
 0x45344A43 = CJ4E = USA
 0x58344A43 = CJ4X = EUR
+
