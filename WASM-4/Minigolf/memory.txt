@@ -1,0 +1,37 @@
+0x000016 - Game Inputs [8-bit
+Bit0 = A (?)
+Bit1 = B (?) (toggles zoom)
+Bit4 = Left
+Bit5 = Right
+Bit6 = Up
+Bit7 = Down
+
+0x00001a - Mouse X [8-bit]
+
+0x00001c - Mouse Y [8-bit]
+
+0x00001e - Mouse Click [8-bit]
+Bit0 = Left Click
+Bit1 = Right Click
+
+0x00396e - Level [8-bit]
+
+0x00554c - Ball Y Coordinate [32-bit]
+
+0x005550 - Ball X Coordinate [32-bit]
+
+0x005554 - Ball Y Momentum [32-bit]
+
+0x005558 - Ball X Momentum [32-bit]
+
+0x00555e - Score [8-bit]
+
+0x005560 - Game State [8-bit]
+0x00 = Pre-Game / Press Start
+0x01 = In Game
+0x02 = Congratulations
+
+0x005561 - Game Zoom [8-bit]
+0x02 = Zoomed Out
+0x04 = Zoomed In
+

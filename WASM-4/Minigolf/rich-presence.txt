@@ -1,0 +1,4 @@
+Display:
+?0xH5560=1?On level @Number(0xH396e) with a score of @Number(0xH555e)
+?0xH5560=2?Celebrating victory with a score of @Number(0xH555e)
+Preparing to play a few rounds of Minigolf!

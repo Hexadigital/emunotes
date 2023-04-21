@@ -1,0 +1,28 @@
+The Box
+Beat Level 1 in one move. [1]
+d0xH396e=1_T:0xH396e=2.1._P:0xH555e>d0xH555e.2.SR:0xH5560=2
+
+The Gun
+Beat Level 2 in one move. [1]
+d0xH396e=2_T:0xH396e=3_N:0xH396e=2_P:0xH555e>d0xH555e.2.SR:0xH5560=2
+
+The Staple
+Beat Level 3 in one move. [1]
+d0xH396e=3_T:0xH396e=4_N:0xH396e=3_P:0xH555e>d0xH555e.2.SR:0xH5560=2
+
+The Straight
+Beat Level 4 in one move. [1]
+d0xH396e=4_T:0xH396e=5_N:0xH396e=4_P:0xH555e>d0xH555e.2.SR:0xH5560=2
+
+The Hook
+Beat Level 5 in one move. [2]
+d0xH396e=5_T:0xH396e=6_N:0xH396e=5_P:0xH555e>d0xH555e.2.SR:0xH5560=2
+
+The Snake
+Beat Level 6 in two moves or less. [3]
+d0xH396e=6_T:0xH5560=2_N:0xH396e=6_P:0xH555e>d0xH555e.3.SR:0xH396e=1
+
+Miniminigolf
+Finish the first level while zoomed out, and stay zoomed out until you beat the game. [5]
+N:0xH5561=2_N:d0xH396e=1_0xH396e=2.1._N:0xH396e=6_T:0xH5560=2_N:0xH5560=1_N:0xH396e!=1_P:0xH5561=4.1.SN:d0xH396e=6_R:0xH396e=1
+
